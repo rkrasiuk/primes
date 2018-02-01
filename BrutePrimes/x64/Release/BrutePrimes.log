@@ -1,0 +1,8 @@
+﻿  BrutePrimes.cpp
+  Generating code
+  3 of 161 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  BrutePrimes.vcxproj -> D:\CPA\semester2\INFO1156 C++\visualStudio\Primes\x64\Release\BrutePrimes.exe
+  BrutePrimes.vcxproj -> D:\CPA\semester2\INFO1156 C++\visualStudio\Primes\x64\Release\BrutePrimes.pdb (Full PDB)
